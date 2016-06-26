@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://automagically.in/blog/2016/06/26/hello-world-post/</loc>
+<lastmod>2016-06-26T13:03:26-07:00</lastmod>
+</url>
+<url>
 <loc>http://automagically.in/blog/archives/</loc>
 </url>
 <url>
 <loc>http://automagically.in/</loc>
+</url>
+<url>
+<loc>http://automagically.in/hello-world-page/</loc>
 </url>
 </urlset>

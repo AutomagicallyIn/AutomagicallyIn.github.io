@@ -4,7 +4,7 @@
   <title><![CDATA[Automagically]]></title>
   <link href="http://automagically.in/atom.xml" rel="self"/>
   <link href="http://automagically.in/"/>
-  <updated>2016-06-26T12:57:58-07:00</updated>
+  <updated>2016-06-26T13:03:28-07:00</updated>
   <id>http://automagically.in/</id>
   <author>
     <name><![CDATA[Yong Dai]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World Post]]></title>
+    <link href="http://automagically.in/blog/2016/06/26/hello-world-post/"/>
+    <updated>2016-06-26T13:03:26-07:00</updated>
+    <id>http://automagically.in/blog/2016/06/26/hello-world-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
